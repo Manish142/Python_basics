@@ -5,3 +5,4 @@
 4. The file with the name 'Python_basics_1' gives insight into the **arithmetic, string, and list operations**.
 5. The file 'Python_basics_2' illustrates the concepts like **conditional statements, for, while, and function creation.**
 6. The file 'Python_basics_3' covers the following topics: **tuples, sets, and dictionaries.**
+7. The file 'Python_basics_4' illustrates the basics of **Numpy.**
