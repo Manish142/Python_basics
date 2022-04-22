@@ -6,3 +6,4 @@
 5. The file 'Python_basics_2' illustrates the concepts like **conditional statements, for, while, and function creation.**
 6. The file 'Python_basics_3' covers the following topics: **tuples, sets, and dictionaries.**
 7. The file 'Python_basics_4' illustrates the basics of **Numpy.**
+8. The jupyter notebook 'Python_basics_5' demonstrates the object **oriented programming (OOP)** concepts of Python. The concepts of **Class and Objects** have been depicted with the help of examples.  
